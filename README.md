@@ -1,2 +1,2 @@
 # polyglot-programmer
-My reference guide while learning multiple programming languages
+My reference guide for multiple programming languages!
