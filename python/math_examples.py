@@ -11,3 +11,13 @@ print(abs(-3))
 
 # fabs() for floating point abs value
 print(math.fabs(-3.5))
+
+almost_pi = 22/7
+print(almost_pi)
+
+rounded_pi = round(almost_pi, 5)
+print(rounded_pi)
+
+rounded_pi = round(almost_pi, 4)
+print(rounded_pi)
+
