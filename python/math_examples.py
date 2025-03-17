@@ -21,3 +21,8 @@ print(rounded_pi)
 rounded_pi = round(almost_pi, 4)
 print(rounded_pi)
 
+# rounding to the nearest 10, 100, 1000 etc.
+print(round(12345, -1))
+print(round(12345, -2))
+print(round(12345, -3))
+
