@@ -24,3 +24,7 @@ print(sum(numbers_list))  # 15
 print(sum(numbers_list) / len(numbers_list))  # 3.0
 print(sum(numbers_list) // len(numbers_list))  # 3
 print(sum(numbers_list[:5])/5)
+
+# List of strings and numbers
+mixed_list = ['apple', 1, 'banana', 2, None]
+print(mixed_list)  # ['apple', 1, 'banana', 2, None]
