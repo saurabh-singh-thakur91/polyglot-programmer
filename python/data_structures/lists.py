@@ -1,3 +1,9 @@
+'''
+Lists in Python are not linked lists, but rather dynamic arrays.
+They are mutable, meaning you can change their content without changing their identity.
+Lists are ordered collections of items, which can be of different types.
+'''
+
 flowers_list = ['rose', 'lily', 'tulip', 'daisy', 'sunflower']
 print(flowers_list)  # ['rose', 'lily', 'tulip', 'daisy', 'sunflower']
 
