@@ -1,4 +1,6 @@
-*.class
-
 # Unignore all with extensions
 !*.*
+
+*.class
+
+
